@@ -10,3 +10,6 @@ cpu-low-watt.txt
 
 links.txt
   Low watt CPU related links
+
+manifest
+  Manifest file for use by resync script 
