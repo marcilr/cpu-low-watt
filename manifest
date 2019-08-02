@@ -30,4 +30,4 @@
 # ------------------------------------------------------------------
 # Source                                            Target
 # ------------------------------------------------------------------
-ssh://git@github.com/marcilr/apollo-lake-cpus.git   appolo-lake-cpus
+ssh://git@github.com/marcilr/apollo-lake-cpus.git   apollo-lake-cpus
