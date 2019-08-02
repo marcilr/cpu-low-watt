@@ -1,0 +1,7 @@
+cpu-low-watt.txt
+Created Fri Aug  2 14:29:51 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Low watt CPUs
+
